@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, me chamo Doc!
 
-<!--
-**HZeroMThreeB/HZeroMThreeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meus foco nos estudos é aprender um pouco de quase tudo, desde: **web**, **segurança**, **infraestrutura** (filosofia DevOps, por consequência), **sistemas operacionais** (GNU/Linux), **redes**, **programação** e até **low-level**.
+Claro que aquilo que faz sentido pra mim é estudar de maneira profunda, preenchendo lacunas se necessário, aprofundando antigos conhecimentos, descobrindo coisas novas e documentando SEMPRE!
 
-Here are some ideas to get you started:
+Minha experiência foi construída por meio do entusiasmo e curiosidade, por isso acabo gostando de tantas áreas e consigo me adaptar a elas conforme a necessidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Minha experiência:
+- :penguin: Possuo sólidos conhecimentos em Linux.
+- :whale: Atuo também com containers **Docker**, **Docker Compose** e **Docker Swarm**.
+- :globe_with_meridians: Redes de computadores
+  - **TCP/IP**, **Modelo OSI**, **HTTP/S**, **SSH**, Troubleshoot de protocolos de rede com ferramentas de monitoramento etc.
+- :computer: Programação
+  - Python e Bash
+- Administração de servidores web
+  - **Apache** e **Nginx**  
