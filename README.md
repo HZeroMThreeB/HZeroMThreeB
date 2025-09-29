@@ -14,4 +14,8 @@ Minha experiência foi construída por meio do ***entusiasmo*** e ***curiosidade
 - :computer: Programação
   - Python e Bash
 - Administração de servidores web
-  - **Apache** e **Nginx**  
+  - **Apache** e **Nginx**
+- Versionamento
+  - **Git**/**GitHub**
+- CI/CD
+  - **Gitlab**
