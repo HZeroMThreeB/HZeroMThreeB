@@ -19,3 +19,5 @@ Minha experiência foi construída por meio do ***entusiasmo*** e ***curiosidade
   - **Git**/**GitHub**
 - CI/CD
   - **Gitlab**
+- DBMS
+  - **MySQL**
