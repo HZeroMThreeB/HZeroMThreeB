@@ -11,6 +11,8 @@ Minha experiência foi construída por meio do ***entusiasmo*** e ***curiosidade
 - :whale: Atuo também com containers **Docker**, **Docker Compose** e **Docker Swarm**.
 - :globe_with_meridians: Redes de computadores
   - **TCP/IP**, **Modelo OSI**, **HTTP/S**, **SSH**, Troubleshoot de protocolos de rede com ferramentas de monitoramento etc.
+- :telephone: Telefonia
+  - VoIP/SIP com Asterisk
 - :computer: Programação
   - Python e Bash
 - Administração de servidores web
