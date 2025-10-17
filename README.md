@@ -1,6 +1,6 @@
 # Olá, me chamo Doc!
 
-Meus foco nos estudos é aprender um pouco de quase tudo, desde: **web**, **segurança**, **infraestrutura** (filosofia DevOps, por consequência), **sistemas operacionais** (GNU/Linux), **redes**, **programação** e até **low-level**.
+Meu foco nos estudos é aprender um pouco de quase tudo, desde: **web**, **segurança**, **infraestrutura** (filosofia DevOps, por consequência), **sistemas operacionais** (GNU/Linux), **redes**, **programação** e até **low-level**.
 Claro que aquilo que faz sentido pra mim é estudar de maneira profunda, preenchendo lacunas se necessário, aprofundando antigos conhecimentos, descobrindo coisas novas e documentando SEMPRE!
 
 Minha experiência foi construída por meio do ***entusiasmo*** e ***curiosidade***, por isso acabo gostando de tantas áreas e consigo me adaptar a elas **conforme a necessidade**.
